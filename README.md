@@ -10,3 +10,6 @@ In this project I used:
 - Retrofit2
 - Retrofit2 - ConverterGSON
 - Picasso2
+
+## Author
+Leandro Alves
